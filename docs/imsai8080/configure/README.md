@@ -93,7 +93,9 @@ The current *startup configuration value* is displayed on the Address Bus LEDs (
 ::: tip
 The whole procedure, including entering a value to boot into CP/M 2.2 (see below) is demonstrated in this *Kit Assembly* video
 <!-- ![IMSAI 8080 CP-A](../CPA_1024.png) -->
-https://www.youtube.com/embed/Cwv_gRtWnZM?start=200
+
+[Link Text]([https://www.example.com](https://www.youtube.com/embed/Cwv_gRtWnZM?start=200)){:target="_blank"}
+
 :::
 
 ::: warning
